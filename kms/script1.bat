@@ -11,6 +11,10 @@ REM update 2016/2/3 by st.
 SET IP=127.0.0.1
 SET PORT=1688
 
+REM 以管理员身份运行脚本切换路径到脚本目录，否则为 c:\windows\system32
+cd /d %~dp0
+echo %cd%
+
 echo 请选择 Office 版本：
 echo 1 Office 2013 Professional Plus
 echo 2 Office 2013 Standard
