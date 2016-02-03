@@ -20,9 +20,11 @@
 
 [Microsoft Office 2013 批量许可证包](https://www.microsoft.com/zh-cn/download/details.aspx?id=35584)
 
-[KB 2757817](https://support.microsoft.com/en-us/kb/2757817) （在 Windows Server 2008 R2 或 Windows 7（批量版本）上设置 KMS 主机时的补丁）
+[KB 2757817](https://support.microsoft.com/en-us/kb/2757817),在 Windows Server 2008 R2 或 Windows 7（批量版本）上设置 KMS 主机时的补丁
 
-[KB2885698](https://support.microsoft.com/en-us/kb/2885698) （Update adds support for Windows 8.1 and Windows Server 2012 R2 clients to Windows Server 2008, Windows 7, Windows Server 2008 R2, Windows 8, and Windows Server 2012 KMS hosts）
+[KB2885698](https://support.microsoft.com/en-us/kb/2885698),Update adds support for Windows 8.1 and Windows Server 2012 R2 clients to Windows Server 2008, Windows 7, Windows Server 2008 R2, Windows 8, and Windows Server 2012 KMS hosts
+
+[KB3058168](https://support.microsoft.com/en-us/kb/3058168), activate Windows 10 from Windows 8 or Windows 8.1, and Windows Server 2012 or Windows Server 2012 R2 KMS hosts
 
 **参考**
 
